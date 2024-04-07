@@ -1,0 +1,7 @@
+kaydettiğim kullanıcılar:
+ad	soyad		kullanıcı adı	şifre
+iclal	erturk		iclal1		1234
+omer	erturk		omer2		omer66
+ayse	erturk		ayse		iclalomer
+satuk	senliler	satuk7		satuks
+sura	karakas		66sura		kara66
